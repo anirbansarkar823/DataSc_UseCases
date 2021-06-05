@@ -1,0 +1,1 @@
+This small use case of time series analysis done by Aman from UnfoldDataScience (Youtube Channel). This use case shows the implementation os AR, MA, ARMA, ARIMA.
